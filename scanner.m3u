@@ -3,14 +3,11 @@
 #EXTINF:-1,Repeater DMR PI1DFT Delft 438.3750 MHz
 http://icecast.pe1rjv.nl:8000/pi1dft.m3u
 
-#EXTINF:-1,Repeater DMR PI1NOG Delfzijl 438.1500 MHz
-http://audio10.broadcastify.com/b65tky42s0cmfq3.mp3?nc=55933648
-
 #EXTINF:-1,Repeater D-Star Relay
 http://pd4fmj.nl:8000/d-star
 
 #EXTINF:-1,Repeater ON0LB Amateur Repeaters Limburg
-http://audio4.broadcastify.com/st3z1mxv76c0qrw.mp3?nc=45384682
+http://stream.pb1sam.nl:8000
 
 #EXTINF:-1,Repeater 70cm PI2NOS Hilversum 430.1250 MHz
 http://icecast.pe1rjv.nl:8000/pi2nos.m3u
@@ -29,9 +26,6 @@ http://icecast.pe1rjv.nl:8000/pj2nos.m3u
 
 #EXTINF:-1,Repeater 70cm PI2NON Coversity 430.2750 MHz
 http://82.73.227.105:9744/broadwave.mp3?src=2&rate=0
-
-#EXTINF:-1,Repeater 70cm/2M PI2AMF/PI3AMF Amersfoort 430.2500/145.6250 MHz
-http://audio5.broadcastify.com/yvb60gq3jch24t9.mp3?nc=93722096
 
 #EXTINF:-1,Repeater 2m PI3UTR Utrecht 145.5750 MHz
 http://icecast.pe1rjv.nl:8000/pi3utr.m3u
@@ -60,14 +54,8 @@ http://icecast.pe1rjv.nl:8000/pi6nos.m3u
 #EXTINF:-1,Repeater 10m PI6TEN Hilversum 29.6900 MHz
 http://icecast.pe1rjv.nl:8000/pi6ten.m3u
 
-#EXTINF:-1,Repeater 10m PI6NLT Delfzijl 29.6400 MHz
-http://audio2.broadcastify.com/rf28t9kcym7jbdp.mp3?nc=77280311
-
 #EXTINF:-1,Repeater 11m WRLP Landelijk 27.0850 MHz
 http://icecast.pe1rjv.nl:8000/wrlp.m3u
-
-#EXTINF:-1,Repeater Delfzijl Repeater Group PI2WSN PI2GRO PI2NOG PI3NOG
-http://audio5.broadcastify.com/r8yf35tjpm0v1qs.mp3?nc=26001314
 
 #EXTINF:-1,Repeater Randstad Repeaters PI2RTD PI3RTD PI2HGL PI2SWK PI2ASD
 http://rwk.dynode.nl:8000/randstadrepeaters.m3u
@@ -121,12 +109,6 @@ http://d.liveatc.net/ehgg1_twr
 #EXTINF:-1,AIR Civiele luchtvaart communicatie (Harlingen)
 http://217.120.149.135:4006/listen.pls
 
-#EXTINF:-1,AIR Maastricht Upper Area Control Centre (MUAC)
-http://audio2.broadcastify.com/1m2p7qt3cx6hjnf.mp3?nc=27847003
-
-#EXTINF:-1,AIR Hoogeveen Airport (EHHO)
-http://audio10.broadcastify.com/wxfhnq194c256p7.mp3?nc=46200578
-
 #EXTINF:-1,AIR Militaire luchtvaart communicatie Dutch Mil
 http://d.liveatc.net/ehle_dutchmil
 
@@ -150,31 +132,7 @@ http://217.120.149.135:4002/listen.pls
 #EXTINF:-1,Maritiem Communicatie Verkeercentrale Brandaris Terschelling
 http://www.tbandsma.nl:8000/;
 
-#EXTINF:-1,Maritiem Communicatie Den Helder
-http://audio5.broadcastify.com/y0btf761x54kcrz.mp3?nocache=7373936
-
 #EXTINF:-1,Maritiem Communicatie Eems/Dollard
-http://audio5.broadcastify.com/mq90krnz5sywjg2.mp3?nc=80852810
-
-#EXTINF:-1,Maritiem Communicatie Sneek
-http://audio10.broadcastify.com/qwvz035hypc4x9s.mp3?nc=30394133
-
-#EXTINF:-1,Maritiem Communicatie Scheveningen 
-http://audio7.broadcastify.com/9dvpghb3mn2crw8.mp3?nc=81660234
-
-#EXTINF:-1,Maritiem Communicatie Nederlandse Kustwacht Landelijk
-http://audio7.broadcastify.com/w8zfpgm3d6h1x04.mp3?nc=44576649
-
-#EXTINF:-1,Maritiem Communicatie Zuidlaardermeer
-http://audio4.broadcastify.com/m09gqf3xdrj2tnb.mp3?nc=91068236
-
-#EXTINF:-1,Maritiem Communicatie IJsselmeer / Medemblik
-http://audio10.broadcastify.com/0zsvkctw4qb621r.mp3?nc=68435788
-
-#EXTINF:-1,Maritiem Communicatie IJsselmeer
-http://audio2.broadcastify.com/14qm2kg703swhxv.mp3?nc=24399268
-
-#EXTINF:-1,Maritiem Communicatie Gooimeer/Eemmeer/IJmeer/Markermeer/KNRM
-http://audio4.broadcastify.com/62qx3pjm8rfgw01.mp3?nc=81292603
+http://terschellingscanner.nl:8050/;
 
 
