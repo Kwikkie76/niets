@@ -21,6 +21,9 @@ http://icecast.pe1rjv.nl:8000/pi2asd
 #EXTINF:-1,Repeater 70cm PI2BOZ Bergen op Zoom 430.0250 MHz
 http://icecast.repeatersboz.nl/pi2boz
 
+#EXTINF:-1,Repeater 70cm PJ2NOS Curacao 438.7250 MHz
+http://icecast.pe1rjv.nl:8000/pj2nos
+
 #EXTINF:-1,Repeater 70cm PI2NON Coversity 430.2750 MHz
 http://82.73.227.105:9744/broadwave.mp3?src=2&rate=0
 
@@ -38,6 +41,9 @@ http://44.137.68.19:9745/broadwave.mp3?src=1&rate=0
 
 #EXTINF:-1,Repeater 2m PI3GRN Groningen 145.7500 MHz
 http://82.73.227.105:9744/broadwave.mp3?src=1&rate=0
+
+#EXTINF:-1,Repeater 10m PI6TEN Hilversum 29.6900 MHz
+http://icecast.pe1rjv.nl:8000/pi6ten
 
 #EXTINF:-1,Repeater 11m WRLP Landelijk 27.0850 MHz
 http://icecast.pe1rjv.nl:8000/wrlp
