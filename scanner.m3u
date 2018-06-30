@@ -68,6 +68,15 @@ http://livestream.ekweb.nl:8000/1?type=http&nocache=206
 #EXTINF:-1,Lokale communicatie Harlingen
 http://217.120.149.135:4008/listen.pls
 
+#EXTINF:-1,Lokale communicatie Zuidoost Leeuwarden (analoge scanner)
+http://pg0h.nl:12000/Scanner.mp3
+
+#EXTINF:-1,Lokale communicatie Zuidoost Leeuwarden (RTL-SDR)
+http://PG0H.nl:12000/lwdzuid.mp3
+
+#EXTINF:-1,Lokale communicatie NS Station Leeuwarden
+http://pg0h.nl:12000/ScannerNS.mp3
+
 
 
 #EXTINF:-1,AIR Schiphol (IJmuiden)
