@@ -59,9 +59,6 @@ http://rwk.dynode.nl:8000/randstadrepeaters
 
 
 
-#EXTINF:-1,Lokale Communicatie TT circuit Assen
-http://www.pd1rh.nl:8000/pd1rh
-
 #EXTINF:-1,Lokale Communicatie Tilburg-Scanners
 http://livestream.ekweb.nl:8000/1?type=http&nocache=206
 
@@ -78,15 +75,17 @@ http://PG0H.nl:12000/lwdzuid.mp3
 http://pg0h.nl:12000/ScannerNS.mp3
 
 
-
 #EXTINF:-1,AIR Schiphol (IJmuiden)
 http://84.106.255.110:88/broadwave.m3u?src=2&rate=1
 
 #EXTINF:-1,AIR Texel International Airport (EHTX) Gnd/Twr
 http://d.liveatc.net/ehtx1
 
-#EXTINF:-1,AIR Rotterdam The Hague Airport (RTM) Gnd/Twr/App
+#EXTINF:-1,AIR Rotterdam The Hague Airport (RTM) Gnd/Twr/App stream 1
 http://d.liveatc.net/ehrd2_alt
+
+#EXTINF:-1,AIR Rotterdam The Hague Airport (RTM) Gnd/Twr/App stream 2
+http://stream01.ipbob.nl:8000/Rotterdam-The-Hague-Airport
 
 #EXTINF:-1,AIR Maastricht Aachen Airport (EHBK) Gnd/Twr/App
 http://d.liveatc.net/ehbk1_twr
@@ -129,7 +128,7 @@ http://d.liveatc.net/ehvl1
 
 
 
-#EXTINF:-1,Maritiem Communicatie Amsterdam/IJmuiden
+#EXTINF:-1,Maritiem Communicatie IJmuiden
 http://84.106.255.110:88/broadwave.m3u?src=1&rate=1
 
 #EXTINF:-1,Maritiem Communicatie Harlingen
