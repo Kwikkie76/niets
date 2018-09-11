@@ -76,6 +76,9 @@ http://PG0H.nl:12000/lwdzuid.mp3
 #EXTINF:-1,Lokale communicatie NS Station Leeuwarden
 http://pg0h.nl:12000/ScannerNS.mp3
 
+#EXTINF:-1,Lokale communicatie Assen
+http://www.pd1rh.nl:8000/pd1rh
+
 
 #EXTINF:-1,AIR Schiphol (IJmuiden)
 http://84.106.255.110:88/broadwave.m3u?src=2&rate=1
