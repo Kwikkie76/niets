@@ -58,6 +58,8 @@ http://icecast.pe1rjv.nl:8000/wrlp
 http://rwk.dynode.nl:8000/randstadrepeaters
 
 
+#EXTINF:-1,Lokale Communicatie Amsterdam Zuid-Oost
+http://217.182.103.250:8000/scanner
 
 #EXTINF:-1,Lokale Communicatie Tilburg-Scanners
 http://livestream.ekweb.nl:8000/1?type=http&nocache=206
