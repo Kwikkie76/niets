@@ -6,17 +6,8 @@ http://icecast.pe1rjv.nl:8000/pi1dft
 #EXTINF:-1,Repeater D-Star Relay
 http://pd4fmj.nl:8000/d-star
 
-#EXTINF:-1,Repeater ON0LB Amateur Repeaters Limburg
-http://stream.pb1sam.nl:8000
-
 #EXTINF:-1,Repeater 70cm PI2NOS Hilversum 430.1250 MHz
 http://icecast.pe1rjv.nl:8000/pi2nos
-
-#EXTINF:-1,Repeater 70cm PI2ANH Arnhem 430.0500 Mhz
-http://icecast.pe1rjv.nl:8000/pi2anh
-
-#EXTINF:-1,Repeater 70cm PI2ASD Amsterdam 430.2000 MHz
-http://icecast.pe1rjv.nl:8000/pi2asd
 
 #EXTINF:-1,Repeater 70cm PI2BOZ Bergen op Zoom 430.0250 MHz
 http://icecast.repeatersboz.nl/pi2boz
@@ -36,9 +27,6 @@ http://icecast.pe1rjv.nl:8000/pi3goe
 #EXTINF:-1,Repeater 2m PI3BOZ Bergen op Zoom 145.6250 MHz 
 http://icecast.repeatersboz.nl/pi3boz
 
-#EXTINF:-1,Repeater 2m PI3NOV ‘t Harde 145.6750 MHz
-http://pi3novstream.pi4nov.nl:8126/live
-
 #EXTINF:-1,Repeater 2m PI3HVN Heerenveen 145.7000 MHz
 http://44.137.68.19:9745/broadwave.mp3?src=1&rate=0
 
@@ -53,10 +41,6 @@ http://icecast.pe1rjv.nl:8000/pi6ten
 
 #EXTINF:-1,Repeater 11m WRLP Landelijk 27.0850 MHz
 http://icecast.pe1rjv.nl:8000/wrlp
-
-#EXTINF:-1,Repeater Randstad Repeaters PI2RTD PI3RTD PI2HGL PI2SWK PI2ASD
-http://rwk.dynode.nl:8000/randstadrepeaters
-
 
 #EXTINF:-1,Lokale Communicatie Amsterdam Zuid-Oost
 http://217.182.103.250:8000/scanner
@@ -79,16 +63,11 @@ http://pg0h.nl:12000/ScannerNS.mp3
 #EXTINF:-1,Lokale communicatie Assen
 http://www.pd1rh.nl:8000/pd1rh
 
-
-
 #EXTINF:-1,AIR Texel International Airport (EHTX) Gnd/Twr
 http://d.liveatc.net/ehtx1
 
 #EXTINF:-1,AIR Rotterdam The Hague Airport (RTM) Gnd/Twr/App stream 1
 http://d.liveatc.net/ehrd2_alt
-
-#EXTINF:-1,AIR Rotterdam The Hague Airport (RTM) Gnd/Twr/App stream 2
-http://stream01.ipbob.nl:8000/Rotterdam-The-Hague-Airport
 
 #EXTINF:-1,AIR Maastricht Aachen Airport (EHBK) Gnd/Twr/App
 http://d.liveatc.net/ehbk1_twr
@@ -101,9 +80,6 @@ http://d.liveatc.net/eheh3_twr
 
 #EXTINF:-1,AIR Eelde Airport (EHGG) Approach
 http://d.liveatc.net/ehgg1_app
-
-#EXTINF:-1,AIR Eelde Airport (EHGG)	133.555 MHz
-http://d.liveatc.net/ehgg1_atis
 
 #EXTINF:-1,AIR Eelde Airport (EHGG) Clearance Delivery/Ground 121.705 MHz
 http://d.liveatc.net/ehgg1_gnd
@@ -123,11 +99,6 @@ http://d.liveatc.net/ehle_dutchmil
 #EXTINF:-1,AIR Militaire luchtvaart communicatie (Harlingen)
 http://217.120.149.135:4004/listen.pls
 
-
-
-#EXTINF:-1,Maritiem Communicatie IJmuiden
-http://84.106.255.110:88/broadwave.m3u?src=1&rate=1
-
 #EXTINF:-1,Maritiem Communicatie Harlingen
 http://217.120.149.135:4002/listen.pls
 
@@ -139,9 +110,6 @@ http://terschellingscanner.nl:8020/listen.pls
 
 #EXTINF:-1,Maritiem Communicatie Weerstation Texel
 http://81.206.42.73:9025/listen.pls
-
-#EXTINF:-1,Maritiem Communicatie Wadscan Ameland
-http://83.136.194.45:8080/;
 
 #EXTINF:-1,Maritiem Communicatie Eems/Dollard
 http://terschellingscanner.nl:8050/;
