@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 
 #EXTINF:-1,Repeater DMR PI1DFT Delft 438.3750 MHz
 http://icecast.pe1rjv.nl:8000/pi1dft
@@ -69,14 +69,32 @@ http://pg0h.nl:12000/ScannerNS.mp3
 #EXTINF:-1,AIR Texel International Airport (EHTX) Gnd/Twr
 http://d.liveatc.net/ehtx1
 
+#EXTINF:-1,AIR Rotterdam The Hague Airport-Approach (RTM)
+http://stream01.ipbob.nl:8000/Rotterdam-The-Hague-Airport-Approach
+
+#EXTINF:-1,AIR Rotterdam The Hague Airport-Tower (RTM)
+http://stream01.ipbob.nl:8000/Rotterdam-The-Hague-Airport-Tower
+
+#EXTINF:-1,AIR Rotterdam Tower-Approach (RTM)
+http://stream01.ipbob.nl:8000/Rotterdam-Tower-Approach
+
+#EXTINF:-1,AIR Schiphol Tower-Approach (AMS)
+http://217.123.106.23:88/broadwave.m3u?src=2&rate=1
+
 #EXTINF:-1,AIR Militaire luchtvaart communicatie (Harlingen)
 http://217.120.149.135:4004/listen.pls
 
 #EXTINF:-1,Maritiem Communicatie Harlingen
 http://217.120.149.135:4002/listen.pls
 
+#EXTINF:-1,Radar Maarssen
+http://www.radarmaarssen.nl:8000/;
+
 #EXTINF:-1,Maritiem Communicatie Verkeercentrale Brandaris Terschelling
 http://www.tbandsma.nl:8000/;
 
 #EXTINF:-1,Maritiem Communicatie Eems/Dollard
 http://terschellingscanner.nl:8050/;
+
+#EXTINF:-1,Maritiem Communicatie ijmond
+http://217.123.106.23:88/broadwave.m3u?src=1&rate=1
