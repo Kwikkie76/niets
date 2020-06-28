@@ -1,22 +1,28 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1,Repeater DMR PI1DFT Delft 438.3750 MHz
 http://icecast.pe1rjv.nl:8000/pi1dft
 
-#EXTINF:-1,Repeater D-Star Relay
-http://pd4fmj.nl:8000/d-star
+#EXTINF:-1,Repeater 70cm PI2ASD Amsterdam 430.2000 MHz
+http://icecast.pe1rjv.nl:8000/pi2asd.m3u
 
 #EXTINF:-1,Repeater 70cm PI2NOS Hilversum 430.1250 MHz
 http://icecast.pe1rjv.nl:8000/pi2nos
 
-#EXTINF:-1,Repeater 70cm PI2BOZ Bergen op Zoom 430.0250 MHz
-http://icecast.repeatersboz.nl/pi2boz
-
 #EXTINF:-1,Repeater 70cm PJ2NOS Curacao 438.7250 MHz
 http://icecast.pe1rjv.nl:8000/pj2nos
 
+#EXTINF:-1,Repeater 70cm PI2BOZ Bergen op Zoom 430.0250 MHz
+http://icecast.repeatersboz.nl/pi2boz
+
+#EXTINF:-1,Repeater 70cm PI2HVN Heerenveen 439.0250 MHz
+http://pihvn.pa8q.nl:8008/PI2HVN.opus
+
 #EXTINF:-1,Repeater 70cm PI2NON Coversity 430.2750 MHz
 http://82.73.227.105:9744/broadwave.mp3?src=2&rate=0
+
+#EXTINF:-1,Repeater 2m PI3NOS Metnet
+http://icecast.pe1rjv.nl:8000/meetnet
 
 #EXTINF:-1,Repeater 2m PI3UTR Utrecht 145.5750 MHz
 http://icecast.pe1rjv.nl:8000/pi3utr
@@ -28,7 +34,7 @@ http://icecast.pe1rjv.nl:8000/pi3goe
 http://icecast.repeatersboz.nl/pi3boz
 
 #EXTINF:-1,Repeater 2m PI3HVN Heerenveen 145.7000 MHz
-http://44.137.68.19:9745/broadwave.mp3?src=1&rate=0
+http://pihvn.pa8q.nl:8008/PI3HVN.opus
 
 #EXTINF:-1,Repeater 2m PI3GRN Groningen 145.7500 MHz
 http://82.73.227.105:9744/broadwave.mp3?src=1&rate=0
@@ -39,11 +45,11 @@ http://icecast.pe1rjv.nl:8000/pi6nos
 #EXTINF:-1,Repeater 10m PI6TEN Hilversum 29.6900 MHz
 http://icecast.pe1rjv.nl:8000/pi6ten
 
-#EXTINF:-1,Repeater 11m WRLP Landelijk 27.0850 MHz
-http://icecast.pe1rjv.nl:8000/wrlp
+#EXTINF:-1,Repeater 70cm/2m Gelderland
+http://78.129.229.120:27376/;
 
-#EXTINF:-1,Lokale Communicatie Amsterdam Zuid-Oost
-http://217.182.103.250:8000/scanner
+#EXTINF:-1,Repeater D-Star Relay
+http://pd4fmj.nl:8000/d-star
 
 #EXTINF:-1,Lokale Communicatie Tilburg-Scanners
 http://livestream.ekweb.nl:8000/1?type=http&nocache=206
@@ -60,41 +66,8 @@ http://PG0H.nl:12000/lwdzuid.mp3
 #EXTINF:-1,Lokale communicatie NS Station Leeuwarden
 http://pg0h.nl:12000/ScannerNS.mp3
 
-#EXTINF:-1,Lokale communicatie Assen
-http://www.pd1rh.nl:8000/pd1rh
-
 #EXTINF:-1,AIR Texel International Airport (EHTX) Gnd/Twr
 http://d.liveatc.net/ehtx1
-
-#EXTINF:-1,AIR Rotterdam The Hague Airport (RTM) Gnd/Twr/App stream 1
-http://d.liveatc.net/ehrd2_alt
-
-#EXTINF:-1,AIR Maastricht Aachen Airport (EHBK) Gnd/Twr/App
-http://d.liveatc.net/ehbk1_twr
-
-#EXTINF:-1,AIR Eindhoven Airport (EHEH) Approach
-http://d.liveatc.net/eheh3_app
-
-#EXTINF:-1,AIR Eindhoven Airport (EHEH) Tower
-http://d.liveatc.net/eheh3_twr
-
-#EXTINF:-1,AIR Eelde Airport (EHGG) Approach
-http://d.liveatc.net/ehgg1_app
-
-#EXTINF:-1,AIR Eelde Airport (EHGG) Clearance Delivery/Ground 121.705 MHz
-http://d.liveatc.net/ehgg1_gnd
-
-#EXTINF:-1,AIR Eelde Airport (EHGG) Emergency/Guard	121.500 MHz
-http://d.liveatc.net/ehgg1_guard
-
-#EXTINF:-1,AIR Eelde Airport (EHGG) Tower	118.705 MHz
-http://d.liveatc.net/ehgg1_twr
-
-#EXTINF:-1,AIR Civiele luchtvaart communicatie (Harlingen)
-http://217.120.149.135:4006/listen.pls
-
-#EXTINF:-1,AIR Militaire luchtvaart communicatie Dutch Mil
-http://d.liveatc.net/ehle_dutchmil
 
 #EXTINF:-1,AIR Militaire luchtvaart communicatie (Harlingen)
 http://217.120.149.135:4004/listen.pls
@@ -104,12 +77,6 @@ http://217.120.149.135:4002/listen.pls
 
 #EXTINF:-1,Maritiem Communicatie Verkeercentrale Brandaris Terschelling
 http://www.tbandsma.nl:8000/;
-
-#EXTINF:-1,Maritiem Communicatie Stormserver Terschelling
-http://terschellingscanner.nl:8020/listen.pls
-
-#EXTINF:-1,Maritiem Communicatie Weerstation Texel
-http://81.206.42.73:9025/listen.pls
 
 #EXTINF:-1,Maritiem Communicatie Eems/Dollard
 http://terschellingscanner.nl:8050/;
