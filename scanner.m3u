@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1,Repeater DMR PI1DFT Delft 438.3750 MHz,Repeater DMR PI1DFT Delft 438.3750 MHz
+#EXTINF:-1,Repeater DMR PI1DFT Delft 438.3750 MHz
 http://icecast.pe1rjv.nl:8000/pi1dft
 
-#EXTINF:-1,Repeater 70cm PI2ASD Amsterdam 430.2000 MHz,Repeater 70cm PI2ASD Amsterdam 430.2000 MHz
+#EXTINF:-1,Repeater 70cm PI2ASD Amsterdam 430.2000 MHz
 http://icecast.pe1rjv.nl:8000/pi2asd.m3u
 
-#EXTINF:-1,Repeater 70cm PI2NOS Hilversum 430.1250 MHz,Repeater 70cm PI2NOS Hilversum 430.1250 MHz
+#EXTINF:-1,Repeater 70cm PI2NOS Hilversum 430.1250 MHz
 http://icecast.pe1rjv.nl:8000/pi2nos
 
 #EXTINF:-1,Repeater 70cm PJ2NOS Curacao 438.7250 MHz
