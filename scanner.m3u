@@ -97,7 +97,7 @@ http://217.120.149.135:4002/listen.pls
 http://www.tbandsma.nl:8000/;
 
 #EXTINF:-1,Maritiem Communicatie Eems/Dollard
-http://terschellingscanner.nl:8050/;
+http://eemsscan.ddns.net:5700/
 
 #EXTINF:-1,Maritiem Communicatie ijmond
 http://217.123.106.23:88/broadwave.m3u?src=1&rate=1
