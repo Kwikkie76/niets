@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Repeater DMR PI1DFT Delft 438.3750 MHz
-http://icecast.pe1rjv.nl:8000/pi1dft
-
-#EXTINF:-1,Repeater 70cm PI2ASD Amsterdam 430.2000 MHz
-http://icecast.pe1rjv.nl:8000/pi2asd.m3u
-
-#EXTINF:-1,Repeater 70cm PI2NOS Hilversum 430.1250 MHz
-http://icecast.pe1rjv.nl:8000/pi2nos
-
-#EXTINF:-1,Repeater 70cm PJ2NOS Curacao 438.7250 MHz
-http://icecast.pe1rjv.nl:8000/pj2nos
-
 #EXTINF:-1,Repeater 70cm PI2BOZ Bergen op Zoom 430.0250 MHz
 http://icecast.repeatersboz.nl/pi2boz
 
@@ -20,15 +8,6 @@ http://pihvn.pa8q.nl:8008/PI2HVN.opus
 
 #EXTINF:-1,Repeater 70cm PI2NON Coversity 430.2750 MHz
 http://82.73.227.105:9744/broadwave.mp3?src=2&rate=0
-
-#EXTINF:-1,Repeater 2m PI3NOS Metnet
-http://icecast.pe1rjv.nl:8000/meetnet
-
-#EXTINF:-1,Repeater 2m PI3UTR Utrecht 145.5750 MHz
-http://icecast.pe1rjv.nl:8000/pi3utr
-
-#EXTINF:-1,Repeater 2m PI3GOE Goes 145.7500 MHz
-http://icecast.pe1rjv.nl:8000/pi3goe
 
 #EXTINF:-1,Repeater 2m PI3BOZ Bergen op Zoom 145.6250 MHz 
 http://icecast.repeatersboz.nl/pi3boz
@@ -41,15 +20,6 @@ http://82.73.227.105:9744/broadwave.mp3?src=1&rate=0
 
 #EXTINF:-1,Repeater 2m PI3MEP Meppel 145.650 MHz
 http://94.215.1.139:9744/broadwave.mp3?src=1&kbps=1
-
-#EXTINF:-1,Repeater 23cm PI6NOS Hilversum 1298.3750 MHz
-http://icecast.pe1rjv.nl:8000/pi6nos
-
-#EXTINF:-1,Repeater 10m PI6TEN Hilversum 29.6900 MHz
-http://icecast.pe1rjv.nl:8000/pi6ten
-
-#EXTINF:-1,Repeater 70cm/2m Gelderland
-http://78.129.229.120:27376/;
 
 #EXTINF:-1,Repeater D-Star Relay
 http://pd4fmj.nl:8000/d-star
