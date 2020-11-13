@@ -42,15 +42,6 @@ http://pg0h.nl:12000/ScannerNS.mp3
 #EXTINF:-1,AIR Texel International Airport (EHTX) Gnd/Twr
 http://d.liveatc.net/ehtx1
 
-#EXTINF:-1,AIR Rotterdam The Hague Airport-Approach (RTM)
-http://stream01.ipbob.nl:8000/Rotterdam-The-Hague-Airport-Approach
-
-#EXTINF:-1,AIR Rotterdam The Hague Airport-Tower (RTM)
-http://stream01.ipbob.nl:8000/Rotterdam-The-Hague-Airport-Tower
-
-#EXTINF:-1,AIR Rotterdam Tower-Approach (RTM)
-http://stream01.ipbob.nl:8000/Rotterdam-Tower-Approach
-
 #EXTINF:-1,AIR Schiphol Tower-Approach (AMS) IJmuiden
 http://217.123.106.23:88/broadwave.m3u?src=2&rate=1
 
