@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Repeater 70cm PI2NOS 430.1250 MHz 
+http://stream.hobbyscoop.nl/pi2nos
+
 #EXTINF:-1,Repeater 70cm PI2BOZ Bergen op Zoom 430.0250 MHz
 http://icecast.repeatersboz.nl/pi2boz
 
@@ -8,6 +11,9 @@ http://pihvn.pa8q.nl:8008/PI2HVN.opus
 
 #EXTINF:-1,Repeater 70cm PI2NON Coversity 430.2750 MHz
 http://82.73.227.105:9744/broadwave.mp3?src=2&rate=0
+
+#EXTINF:-1,Repeater 2m PI3UTR Utrecht 145.5750 MHz
+http://stream.hobbyscoop.nl/pi3utr
 
 #EXTINF:-1,Repeater 2m PI3BOZ Bergen op Zoom 145.6250 MHz 
 http://icecast.repeatersboz.nl/pi3boz
@@ -18,8 +24,14 @@ http://pihvn.pa8q.nl:8008/PI3HVN.opus
 #EXTINF:-1,Repeater 2m PI3GRN Groningen 145.7500 MHz
 http://82.73.227.105:9744/broadwave.mp3?src=1&rate=0
 
-#EXTINF:-1,Repeater 2m PI3MEP Meppel 145.650 MHz
+#EXTINF:-1,Repeater 2m PI3MEP Meppel 145.6500 MHz
 http://94.215.1.139:9744/broadwave.mp3?src=1&kbps=1
+
+#EXTINF:-1,Repeater 2m PI3GOE Goes 145.7750 MHz
+http://stream.hobbyscoop.nl/pi3goe
+
+#EXTINF:-1,Repeater PI6NOS 1298.3750 MHz
+http://stream.hobbyscoop.nl/pi6nos
 
 #EXTINF:-1,Repeater D-Star Relay
 http://pd4fmj.nl:8000/d-star
