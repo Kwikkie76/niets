@@ -30,6 +30,9 @@ http://94.215.1.139:9744/broadwave.mp3?src=1&kbps=1
 #EXTINF:-1,Repeater 2m PI3GOE Goes 145.7750 MHz
 http://stream.hobbyscoop.nl/pi3goe
 
+#EXTINF:-1,Repeater 2m FM Simplex 145.2750 (Hunebedronde)
+http://pa0ebc.nl:9745/broadwave.mp3?src=1&rate=0
+
 #EXTINF:-1,Repeater PI6NOS 1298.3750 MHz
 http://stream.hobbyscoop.nl/pi6nos
 
