@@ -72,6 +72,9 @@ http://217.120.149.135:4004/listen.pls
 #EXTINF:-1,AIR/Maritiem Radar Maarssen
 http://www.radarmaarssen.nl:8000/;
 
+#EXTINF:-1,AIR/Maritiem/Lokaal Texel scanner
+https://freeuk5.listen2myradio.com/live.mp3?typeportmount=s1_31984_stream_45980416
+
 #EXTINF:-1,Maritiem Communicatie Harlingen
 http://217.120.149.135:4002/listen.pls
 
