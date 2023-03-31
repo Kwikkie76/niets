@@ -2,17 +2,14 @@
   "kanalen": [
     {
       "name": "Kanaal 1",
-	  "icon": "https://www.delta.nl/media/1466/ziggo-sport-racing-delta.png?anchor=center&mode=crop&width=300&rnd=132048432721930000",
       "url": "acestream://77800bb07c1d69135024ee2379c97472eb12dd45",
     },
     {
       "name": "Kanaal 2",
-	  "icon": "https://www.thesportsdb.com/images/media/tvlogo/Ziggo_Sport_Select.png",
       "url": "acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a",
     },
     {
       "name": "Kanaal 3",
-	  "icon": "https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg",
       "url": "acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91",
     }
   ]
