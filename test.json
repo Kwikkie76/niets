@@ -15,7 +15,7 @@
     {
       "name": "E.S.P.N. 4.",
       "url": "acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a",
-    },	
+    },
     {
       "name": "Z.i.g.g.0. Select",
       "url": "acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a",
@@ -27,7 +27,31 @@
     {
       "name": "Z.i.g.g.0. V0etbal",
       "url": "acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91",
-    }
+    },
+    {
+      "name": "S.k.y. Sp0rts Main Event [UK]",
+      "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
+    },	
+    {
+      "name": "S.k.y. Sp0rts Main Event [UK] 2",
+      "url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
+    },	
+    {
+      "name": "S.k.y. Sp0rts F1 [UK]",
+      "url": "acestream://d945f6cb87407c23e5825cdfc8c4c23555767495",
+    },
+    {
+      "name": "S.k.y. Sp0rts F1 [UK] 2",
+      "url": "acestream://55a762c1e48db88542771a476c65ffc309bd7262",
+    },		
+    {
+      "name": "S.k.y. Sp0rts F00tbal [UK]",
+      "url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
+    },
+    {
+      "name": "S.k.y. Sp0rts Arena [UK]",
+      "url": "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
+    },	
   ]
 }
 	
