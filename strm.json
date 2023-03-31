@@ -1,15 +1,15 @@
 {
   "kanalen": [
-    {
-      "name": "Kanaal 1",
-      "url": "acestream://77800bb07c1d69135024ee2379c97472eb12dd45",
-    },
-    {
-      "name": "Kanaal 2",
+      {
+      "name": "Zigg0 Select",
       "url": "acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a",
     },
     {
-      "name": "Kanaal 3",
+      "name": "Zigg0 Rac1ng",
+      "url": "acestream://77800bb07c1d69135024ee2379c97472eb12dd45",
+    },
+    {
+      "name": "Zigg0 V0etbal",
       "url": "acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91",
     }
   ]
