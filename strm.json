@@ -1,0 +1,19 @@
+{
+  "kanalen": [
+    {
+      "naam": "Kanaal 1",
+      "url": "acestream://77800bb07c1d69135024ee2379c97472eb12dd45",
+      "beschrijving": "Eerste kanaal van de lijst"
+    },
+    {
+      "naam": "Kanaal 2",
+      "url": "acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a",
+      "beschrijving": "Tweede kanaal van de lijst"
+    },
+    {
+      "naam": "Kanaal 3",
+      "url": "acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91",
+      "beschrijving": "Derde kanaal van de lijst"
+    }
+  ]
+}
