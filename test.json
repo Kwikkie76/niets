@@ -1,0 +1,21 @@
+{
+  "kanalen": [
+    {
+      "name": "E.S.P.N. 1.",
+      "url": "acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab",
+    },  
+    {
+      "name": "E.S.P.N. 2.",
+      "url": "acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63",
+    }, 
+    {
+      "name": "E.S.P.N. 3.",
+      "url": "acestream://a97cafedefe189d63e52eadc5c9bbc351b01540a",
+    }, 
+    {
+      "name": "E.S.P.N. 4.",
+      "url": "acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a",
+    }
+  ]
+}
+	
