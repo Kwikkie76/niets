@@ -1,0 +1,28 @@
+$ curl "http://127.0.0.1:6878/server/api?api_version=3&method=get_available_players&content_id=test"
+{
+    "result": {
+        "players": [
+            {
+                "protocol": "acestreamcast",
+                "icon": null,
+                "type": "aircast",
+                "id": "77800bb07c1d69135024ee2379c97472eb12dd45",
+                "name": "ZIGGO SPORT RACING)"
+            },
+            {
+                "protocol": "chromecast",
+                "icon": null,
+                "type": "aircast",
+                "id": "45eab0695ce13265687ace5e5bcef8d8ee8bc69a",
+                "name": "ZIGGO SPORT SELECT"
+            },
+            {
+                "protocol": "acestreamcast",
+                "icon": null,
+                "type": "aircast",
+                "id": "95769f95c6af45e8ec46526c3be1104d0a0c7b91",
+                "name": "ZIGGO SPORT VOETBAL)"
+            },
+        ]
+    }
+}
