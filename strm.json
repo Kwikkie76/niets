@@ -74,7 +74,8 @@
     },
 	{
       "name": "BT SPORT 1-3 UK",
-      "url": "acestream://6adb56e860967c5b1ba08e1bcb1eb2c4245e5842
+      "url": "acestream://6adb56e860967c5b1ba08e1bcb1eb2c4245e5842",
+	},  
     {
       "name": "BT SPORT 2 UK",
       "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
@@ -87,7 +88,7 @@
       "name": "BT SPORT 4-1 UK",
       "url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
     },
-{
+    {
       "name": "BT SPORT 4-2 UK",
       "url": "acestream://bc2b90ebc65c837ddecfa387e44dc3717486e609",
     },	
