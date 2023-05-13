@@ -65,17 +65,9 @@
       "url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
     },
     {
-      "name": "BT SPORT 1-1 UK",
+      "name": "BT SPORT 1 UK",
       "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
     },
-	{
-      "name": "BT SPORT 1-2 UK",
-      "url": "acestream://ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c",
-    },
-	{
-      "name": "BT SPORT 1-3 UK",
-      "url": "acestream://6adb56e860967c5b1ba08e1bcb1eb2c4245e5842",
-	},  
     {
       "name": "BT SPORT 2 UK",
       "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
@@ -88,10 +80,6 @@
       "name": "BT SPORT 4-1 UK",
       "url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
     },
-    {
-      "name": "BT SPORT 4-2 UK",
-      "url": "acestream://bc2b90ebc65c837ddecfa387e44dc3717486e609",
-    },	
     {
       "name": "Sky Sport F1 DE",
       "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
