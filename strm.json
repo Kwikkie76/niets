@@ -77,7 +77,7 @@
       "url": "acestream://5f966c123759de46dff29c379266b7a403452033",
     },
     {
-      "name": "BT SPORT 4-1 UK",
+      "name": "BT SPORT 4 UK",
       "url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
     },
     {
@@ -85,12 +85,8 @@
       "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
     },
     {
-      "name": "NBA TV-1 US",
+      "name": "NBA TV US",
       "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95",
-    },
-	{
-      "name": "NBA TV-2 US",
-      "url": "acestream://39db49bc89dcc3c8797566231f869dca57f1a47e",
     },
     {
       "name": "ESPN 1 US",
