@@ -28,23 +28,19 @@
       "name": "Ziggo Voetbal",
       "url": "acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91",
     },
+	{
+      "name": "Ziggo Tennis",
+      "url": "acestream://035e34b791335962ca817f42fd14300382af3797",
+    },
     {
       "name": "Sky Sports Main Event UK",
       "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
     },
     {
-      "name": "Sky. Sports F1-1 UK",
+      "name": "Sky. Sports F1 UK",
       "url": "acestream://55a762c1e48db88542771a476c65ffc309bd7262",
     },
-	{
-      "name": "Sky. Sports F1-2 UK",
-      "url": "acestream//28710e9057927317c869b11d669c28a4d77a6ab3",
-    },
-	{
-      "name": "Sky. Sports F1-3 UK",
-      "url": "acestream//3251c61c831ddeae6b7feeae704a3f6c5c975e02",
-    },
-    {
+	    {
       "name": "Sky Sports Footbal UK",
       "url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
     },
@@ -80,9 +76,9 @@
       "name": "BT SPORT 4 UK",
       "url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
     },
-    {
-      "name": "Sky Sport F1 DE",
-      "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
+	{
+      "name": "TNT Sport 1 UK",
+      "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
     },
     {
       "name": "NBA TV US",
@@ -101,8 +97,12 @@
       "url": "acestream://c9c062941fbecb16ce29437f346ea7177d720898",
     },
     {
-      "name": "FOX Sports 2 US",
+      "name": "FOX Sports 2 US 1080",
       "url": "acestream://cba8d369eac629b577750edb90370cd1c5fb03b7",
+    },
+	{
+      "name": "FOX Sports 2 US 720",
+      "url": "acestream://5ae9afd963961cd07e8f690e44a6596a2bb4e51e",
     },
 	{
       "name": "F1 TVPRO",
@@ -110,7 +110,39 @@
     },
 	{
       "name": "F1 TVPRO 1080",
-      "url": "acestream://0b0280578d8b145562f4f4584c83261a56404843",
+      "url": "acestream://f9a3bb031decab7df4503d9ae56605b0c6236e9b",
+    },
+	{
+      "name": "F1 FHD",
+      "url": "acestream://cc316a6404e211cbd2a77369561ea911e9032d9e",
+    }
+	{
+      "name": "F1 1080",
+      "url": "acestream://5789ca155323664edd293b848606688edf803f4d",
+    }
+	{
+      "name": "F1 720",
+      "url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2",
+    }
+	{
+      "name": "Sky Sport F1 DE",
+      "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076",
+    },
+	{
+      "name": "DAZN 1 BAR DE",
+      "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229",
+    },
+	{
+      "name": "DAZN 2 DE",
+      "url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865",
+    },
+	{
+      "name": "Sportdigital DE",
+      "url": "acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7",
+    },
+	{
+      "name": "SPORT 1+ DE",
+      "url": "acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b",
     },
 	{
       "name": "Eurosport 1 - 1080",
