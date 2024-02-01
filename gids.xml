@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<tv>
 <channel id="RTV Dordrecht"><display-name lang="nl">RTV Dordrecht</display-name><icon src="https://www.rtvdordrecht.nl/files/202003/raw/b61b4d8601e27103a1a0ca0eaa602a0e.svg"/></channel>
 <channel id="Rakuten Action"><display-name lang="nl">Rakuten Action</display-name><icon src="https://corp.rakuten.asia/assets/img/home/logo/logo_rasia_line2.svg"/></channel>
 <channel id="Rakuten Comedy"><display-name lang="nl">Rakuten Comedy</display-name><icon src="https://corp.rakuten.asia/assets/img/home/logo/logo_rasia_line2.svg"/></channel>
@@ -7,3 +7,4 @@
 <channel id="Rakuten Stories"><display-name lang="nl">Rakuten Stories</display-name><icon src="https://corp.rakuten.asia/assets/img/home/logo/logo_rasia_line2.svg"/></channel>
 <programme start="20240126000000 +0000" stop="20250126010000 +0000" channel="RTV Dordrecht"><title lang="nl">RTV Dordrecht</title><desc lang="nl">De lokale omroep van de mooiste stad van Nederland.</desc><icon src="https://cdn.gvidi.tv/img/booxmedia/ca61/8/1/Social Politocal Economics (18).jpg"/><rating system="kijkwijzer"><value>AL</value></rating></programme>
 <programme start="20240126000000 +0000" stop="20250126010000 +0000" channel="Rakuten Action"><title lang="nl">Rakuten Action</title><desc lang="nl">Rakuten Action Films</desc><icon src="https://cdn.gvidi.tv/img/booxmedia/ca61/8/1/Social Politocal Economics (18).jpg"/><rating system="kijkwijzer"><value>AL</value></rating></programme>
+</tv>
