@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Meppel (Drenthe)
+https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/video-1280x720p25-3000/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Dordrecht
+https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Rakuten TV",++Rakuten TV Nederland++
+http://transponder.petervanderlaan.nl/intros/streamrakutentv_tv.mp4
+#EXTINF:-1 group-title="Stream Rakuten TV",Rakuten TV Action Nederland
+https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Rakuten TV",Rakuten TV Comedy Nederland
+https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Rakuten TV",Rakuten TV Documentaries Nederland
+https://rakuten-documentaries-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Rakuten TV",Rakuten TV Drama Nederland
+https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Rakuten TV",Rakuten TV Family Nederland
+https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Rakuten TV",Rakuten TV Stories Nederland
+https://rakuten-spotlight-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
