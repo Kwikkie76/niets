@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Meppel (Drenthe)
-https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/video-1280x720p25-3000/index.m3u8
+https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
 #EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Dordrecht
 https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
 #EXTINF:-1 group-title="Stream Rakuten TV",++Rakuten TV Nederland++
