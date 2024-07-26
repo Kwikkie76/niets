@@ -6,8 +6,8 @@ http://stream.hobbyscoop.nl/pi2nos
 #EXTINF:-1,Repeater 70cm PI2BOZ Bergen op Zoom 430.0250 MHz
 http://icecast.repeatersboz.nl/pi2boz
 
-#EXTINF:-1,Repeater 70cm PI2HVN Heerenveen 439.0250 MHz
-
+#EXTINF:-1,Repeater 70cm PI2HVN Heerenveen 430.0250 MHz
+http://44.137.68.19:9745/broadwave.mp3?src=2&rate=1
 
 #EXTINF:-1,Repeater 70cm PI2NON Coversity 430.2750 MHz
 http://82.73.227.105:9744/broadwave.mp3?src=2&rate=0
@@ -19,42 +19,28 @@ http://stream.hobbyscoop.nl/pi3utr
 http://icecast.repeatersboz.nl/pi3boz
 
 #EXTINF:-1,Repeater 2m PI3HVN Heerenveen 145.7000 MHz
-
-
-#EXTINF:-1,Repeater 2m PI3GRN Groningen 145.7500 MHz
-
+http://44.137.68.19:9745/broadwave.mp3?src=1&rate=1
 
 #EXTINF:-1,Repeater 2m PI3MEP Meppel 145.6500 MHz
-
+http://82.74.191.24:9744/broadwave.mp3?src=1&kbps=0
 
 #EXTINF:-1,Repeater 2m PI3GOE Goes 145.7750 MHz
 http://stream.hobbyscoop.nl/pi3goe
 
-#EXTINF:-1,Repeater 2m FM Simplex 145.2750 (Hunebedronde)
-
-
 #EXTINF:-1,Repeater PI6NOS 1298.3750 MHz
 http://stream.hobbyscoop.nl/pi6nos
 
-#EXTINF:-1,Repeater D-Star Relay
-
-#EXTINF:-1,Lokale communicatie Harlingen
-
 #EXTINF:-1,Lokale communicatie NS Station Leeuwarden
-http://pg0h.nl:12000/ScannerNS.mp3
+https://icecast.PG0H.nl/ScannerNS.mp3
 
-#EXTINF:-1,AIR/Maritiem/Lokaal Texel scanner
-https://freeuk5.listen2myradio.com/live.mp3?typeportmount=s1_31984_stream_45980416
+#EXTINF:-1,Vliegbasis Leeuwarden
+https://icecast.pg0h.nl/vliegbasis.mp3
 
 #EXTINF:-1,Maritiem Communicatie Harlingen
-
+https://broadcastify.cdnstream1.com/20564
 
 #EXTINF:-1,Maritiem Communicatie Verkeercentrale Brandaris Terschelling
 http://www.tbandsma.nl:8000/;
 
 #EXTINF:-1,Maritiem Communicatie Eems/Dollard
 http://eemsscan.ddns.net:5700/
-
-#EXTINF:-1,Maritiem Communicatie ijmond
-
-#EXTINF:-1,Maritiem Communicatie Den Haag (scheveningen)
