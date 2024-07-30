@@ -44,3 +44,9 @@ http://www.tbandsma.nl:8000/;
 
 #EXTINF:-1,Maritiem Communicatie Eems/Dollard
 http://eemsscan.ddns.net:5700/
+
+#EXTINF:-1, TT circuit Assen en Champcars (bij evenementen actief)
+http://www.pd1rh.nl:8001/pd1rh
+
+#EXTINF:-1, TT circuit Assen en Champcars (backup)
+http://www.pd1rh.nl:8000/pd1rh
